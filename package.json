@@ -1,0 +1,27 @@
+{
+  "name": "learning-mui",
+  "version": "1.0.0",
+  "description": "For learning material ui with react.",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "cross-env NODE_ENV=production node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kulmanshu/learning-mui.git"
+  },
+  "author": "kulmanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kulmanshu/learning-mui/issues"
+  },
+  "homepage": "https://github.com/kulmanshu/learning-mui#readme",
+  "dependencies": {
+    "cross-env": "^7.0.2",
+    "express": "^4.17.1",
+    "next": "^9.3.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
