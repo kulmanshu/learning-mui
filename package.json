@@ -19,10 +19,12 @@
   "homepage": "https://github.com/kulmanshu/learning-mui#readme",
   "dependencies": {
     "@material-ui/core": "^4.9.7",
+    "axios": "^0.19.2",
     "cross-env": "^7.0.2",
     "express": "^4.17.1",
     "next": "^9.3.2",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "swr": "^0.1.18"
   }
 }
